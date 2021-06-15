@@ -1,1 +1,2 @@
 # mototanitiki.github.io
+こんにちは
